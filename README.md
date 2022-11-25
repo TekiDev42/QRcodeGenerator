@@ -1,2 +1,3 @@
 # QRcodeGenerator
  
+BASIC & SIMPLE 
